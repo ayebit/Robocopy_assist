@@ -1,2 +1,2 @@
 # Robocopy_assist
-GUI wrapper of robocopy and some functions
+GUI for robocopy and some functions
